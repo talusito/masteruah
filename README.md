@@ -6,3 +6,9 @@ ls
 cd masteruah/
 ls
 vim README.md
+
+| NOMBRE          | GITHUB                                       |
+| ------          | ------                                       |
+| JORGE SÁNCHEZ   | https://github.com/jorgesanchezmg6/masteruah |
+| CARLOS JAVIER   | https://github.com/cjalvarez-git/masteruah   |
+| ANGEL MOYA      | https://github.com/AngelManuelMoya/masteruah |
